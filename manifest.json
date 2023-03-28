@@ -1,0 +1,14 @@
+{
+  "name": "Change Log",
+  "id": "1220781638927760871",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "permissions": ["currentuser"],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
